@@ -1,2 +1,2 @@
 # Tela-clone-spotify
-tela spotfy html e css
+Tela Spotify html e css dicas pra dev.
